@@ -1,4 +1,4 @@
-go-alignment-block-getter
+# go-alignment-block-getter
 
 - etxracting a particular block of alignment from the genome alignment
 - extract a region specific block and write the block alignment.
